@@ -1,0 +1,5 @@
+node_modules/
+.pi-data/*.json
+.pi-data/*.json.lock
+*.log
+
